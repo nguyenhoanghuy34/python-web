@@ -19,7 +19,7 @@ pymysql.install_as_MySQLdb()
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
-# Quick-start development settings ---444----555--- unsuitable for production and ?
+# Quick-start development settings ---444---555---666--- unsuitable for production and ?
 # See https://docs.djangoproject.com/en/6.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
